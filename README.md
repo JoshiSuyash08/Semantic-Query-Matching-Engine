@@ -22,7 +22,3 @@ Evaluation
 
 Utilizing the Cranfield dataset, the engine undergoes rigorous evaluation to quantify its effectiveness in information retrieval. Metrics such as MAP, MRR, and NDCG serve as benchmarks for its performance, guiding further optimization and refinement to enhance its utility in real-world applications.
 
-
-Acknowledgments
-
-We extend our gratitude to the researchers and developers in the field of information retrieval and natural language processing. Their groundbreaking work on semantic analysis and deep learning models like DSSM has been instrumental in the development of this engine, paving the way for new innovations in the domain.
